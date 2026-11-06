@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+config.json
+queue.jsonl
+queue_sent.log
+images/
